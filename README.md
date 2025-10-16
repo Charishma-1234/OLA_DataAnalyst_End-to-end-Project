@@ -1,10 +1,10 @@
 # OLA_DataAnalyst_End-to-end-Project
-![o1](https://github.com/user-attachments/assets/89cd597a-d054-46b1-8125-f16285a83e09)
-![o2](https://github.com/user-attachments/assets/d2b60a4a-484e-40d7-9dd6-a0220a034d89)
+![o5](https://github.com/user-attachments/assets/d464cfb3-eacf-4f11-a5a2-3bf5d1379e64)
+![o4](https://github.com/user-attachments/assets/65afcb30-0930-4a05-b9fb-00460b48d2b1)
+![o3](https://github.com/user-attachments/assets/5a6410b6-80c0-439b-a84d-1be797eb3082)
+![o2](https://github.com/user-attachments/assets/02fdb9c6-c07e-4c29-b389-23f6cd6d85ee)
+![o1](https://github.com/user-attachments/assets/372ca615-1e5c-4fde-8f7e-61402d7f7628)
 
-![o5](https://github.com/user-attachments/assets/1fa1815d-b56f-4a65-842f-163e8940864b)
-![o4](https://github.com/user-attachments/assets/c71652aa-4256-461c-a9be-bcdf3bf09266)
-![o3](https://github.com/user-attachments/assets/f12bf4aa-f389-4c74-bbbf-8bd7e33a2b48)
 
 
 
