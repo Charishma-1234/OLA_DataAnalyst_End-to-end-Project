@@ -1,4 +1,13 @@
 # OLA_DataAnalyst_End-to-end-Project
+![o1](https://github.com/user-attachments/assets/89cd597a-d054-46b1-8125-f16285a83e09)
+![o2](https://github.com/user-attachments/assets/d2b60a4a-484e-40d7-9dd6-a0220a034d89)
+
+![o5](https://github.com/user-attachments/assets/1fa1815d-b56f-4a65-842f-163e8940864b)
+![o4](https://github.com/user-attachments/assets/c71652aa-4256-461c-a9be-bcdf3bf09266)
+![o3](https://github.com/user-attachments/assets/f12bf4aa-f389-4c74-bbbf-8bd7e33a2b48)
+
+
+
 🔍 Project Overview
 This project simulates/analyzes real-world data for [your domain/city/use case] and includes 20+ fields, such as:
    •	Date & Time: Tracks trends and peak hours.
